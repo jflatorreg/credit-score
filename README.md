@@ -7,7 +7,7 @@ Para lograr esto, se parte de una base de datos anónima de una entidad bancaria
 
 Es necesario limpiar los datos y consolidar los datos para entrenar los modelos.
 
-## 2. Descriptive statistics
+## 2. Descriptive Statistics
 
 Se hace un análisis descriptivo básico para saber el comportamiento general de las variables.
 

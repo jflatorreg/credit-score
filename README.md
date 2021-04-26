@@ -1,4 +1,4 @@
-# credit-score
+# Credit Score
 En este proyecto se propone la construcción de modelo predictivo que permita determinar el comportamiento de un buen o mal cliente, a partir de su historial de pago de un crédito.
 
 Para lograr esto, se parte de una base de datos anónima de una entidad bancaria. Con esta base de datos se sigue el siguiente flujo de trabajo (El flujo de trabajo se encuentra desarrolado en el archivo [credit_score.ipynb](credit_score.ipynb)): 

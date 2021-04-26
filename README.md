@@ -19,7 +19,7 @@ Con las variables históricas del pago del crédito, se construyen nuevas caract
 
 Se construye la etiqueta de mal o buen cliente a partir del historial de pago. Se crean dos etiquetas, cuando se tiene una mora de 30 días y otra cuando se tiene una mora 90 días, para los malos clientes. 
 
-## 5. Model training
+## 5. Model Training
 
 Con todo lo anterior se construye dos modelos predictivos de Regresión Logística
 
